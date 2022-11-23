@@ -1,0 +1,14 @@
+.itemPost {
+    padding: 10rem;
+}
+
+button {
+    padding: 0.8rem;
+    text-transform: uppercase;
+    margin: 0 0.7rem;
+    font-size: 1rem;
+    border: 2px solid hsl(0, 95%, 65%);
+    background: transparent;
+    margin-top: 1rem;
+    border-radius: 7px;
+}
